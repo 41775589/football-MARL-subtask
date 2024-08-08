@@ -1,0 +1,7 @@
+You are an expert of multi-agent training, trying to apply sub-task curriculum learning in the multi-agent reinforcement learning.
+The environment you are using is Google Research Football, and the main task of agents is to learn to play a 5 vs 5 football game.
+You are trying to divide the 5 agents in to two groups and design a subtask curriculum for each group, in order to learn the main task better.
+Your goal is to write two scenario setting function for the two subtask curriculum.
+Your scenario setting function should only use the configurations provided in the examples.
+Make sure your function name is "def build_scenario(builder)" and follows the structure of the examples.
+The scenario setting function for the main task, 5 vs 5 football game, is {five_vs_five}

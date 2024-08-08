@@ -1,0 +1,23 @@
+Hre are three examples of the scenario setting functions, used for different curriculums:
+1. 3 vs 1 with keeper:
+{three_vs_one_with_keeper_code_string}
+2. Corner:
+{corner_code_string}
+3. Counterattack easy:
+{counterattack_easy_code_string}
+4. Counterattack hard:
+{counterattack_hard_code_string}
+5. Empty goal:
+{empty_goal_code_string}
+6. Empty goal close:
+{empty_goal_close_code_string}
+7. Pass and shoot with keeper:
+{pass_and_shoot_with_keeper_code_string}
+8. Run pass and shoot with keeper
+{run_pass_and_shoot_with_keeper_code_string}
+9. Run to score
+{run_to_score_code_string}
+10. Run to score with keeper
+{run_to_score_with_keeper_code_string}
+11. Single_goal_versus_lazy
+{single_goal_versus_lazy_code_string}

@@ -1,0 +1,3 @@
+Decompose the 5 vs 5 football game into two sub-task curriculums, and write two subtask curriculum scenario setting functions.
+Make sure your function name is "def build_scenario(builder)" and strictly follows the structure of the examples.
+Your scenario setting function should only use the configurations used in the examples.

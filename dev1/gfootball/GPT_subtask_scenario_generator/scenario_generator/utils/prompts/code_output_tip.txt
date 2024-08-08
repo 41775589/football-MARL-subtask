@@ -1,0 +1,5 @@
+The output should have two scenario setting functions, each used to train a portion of the 5 agents with no overlap, and each agent should be assigned to the training of one of the sub-tasks
+Your scenario setting function should only use the configurations provided in the examples.
+Make sure every function name is "def build_scenario(builder)" and follows the structure of the examples.
+The code output should be formatted as a python code string: "```python ... ```".
+
